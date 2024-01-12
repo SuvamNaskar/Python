@@ -1,2 +1,2 @@
 # Python
-My python learning progress
+All solutions to the problems which I have already solved
